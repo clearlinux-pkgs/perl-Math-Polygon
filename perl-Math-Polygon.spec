@@ -4,7 +4,7 @@
 #
 Name     : perl-Math-Polygon
 Version  : 1.10
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/M/MA/MARKOV/Math-Polygon-1.10.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MA/MARKOV/Math-Polygon-1.10.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libm/libmath-polygon-perl/libmath-polygon-perl_1.10-1.debian.tar.xz
