@@ -67,18 +67,18 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.26.1/Math/Polygon.pm
-/usr/lib/perl5/vendor_perl/5.26.1/Math/Polygon.pod
-/usr/lib/perl5/vendor_perl/5.26.1/Math/Polygon/Calc.pm
-/usr/lib/perl5/vendor_perl/5.26.1/Math/Polygon/Calc.pod
-/usr/lib/perl5/vendor_perl/5.26.1/Math/Polygon/Clip.pm
-/usr/lib/perl5/vendor_perl/5.26.1/Math/Polygon/Clip.pod
-/usr/lib/perl5/vendor_perl/5.26.1/Math/Polygon/Convex.pm
-/usr/lib/perl5/vendor_perl/5.26.1/Math/Polygon/Convex.pod
-/usr/lib/perl5/vendor_perl/5.26.1/Math/Polygon/Surface.pm
-/usr/lib/perl5/vendor_perl/5.26.1/Math/Polygon/Surface.pod
-/usr/lib/perl5/vendor_perl/5.26.1/Math/Polygon/Transform.pm
-/usr/lib/perl5/vendor_perl/5.26.1/Math/Polygon/Transform.pod
+/usr/lib/perl5/vendor_perl/5.28.0/Math/Polygon.pm
+/usr/lib/perl5/vendor_perl/5.28.0/Math/Polygon.pod
+/usr/lib/perl5/vendor_perl/5.28.0/Math/Polygon/Calc.pm
+/usr/lib/perl5/vendor_perl/5.28.0/Math/Polygon/Calc.pod
+/usr/lib/perl5/vendor_perl/5.28.0/Math/Polygon/Clip.pm
+/usr/lib/perl5/vendor_perl/5.28.0/Math/Polygon/Clip.pod
+/usr/lib/perl5/vendor_perl/5.28.0/Math/Polygon/Convex.pm
+/usr/lib/perl5/vendor_perl/5.28.0/Math/Polygon/Convex.pod
+/usr/lib/perl5/vendor_perl/5.28.0/Math/Polygon/Surface.pm
+/usr/lib/perl5/vendor_perl/5.28.0/Math/Polygon/Surface.pod
+/usr/lib/perl5/vendor_perl/5.28.0/Math/Polygon/Transform.pm
+/usr/lib/perl5/vendor_perl/5.28.0/Math/Polygon/Transform.pod
 
 %files dev
 %defattr(-,root,root,-)
