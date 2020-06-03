@@ -4,7 +4,7 @@
 #
 Name     : perl-Math-Polygon
 Version  : 1.10
-Release  : 14
+Release  : 15
 URL      : https://cpan.metacpan.org/authors/id/M/MA/MARKOV/Math-Polygon-1.10.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MA/MARKOV/Math-Polygon-1.10.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libm/libmath-polygon-perl/libmath-polygon-perl_1.10-1.debian.tar.xz
@@ -106,15 +106,15 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/Math/Polygon.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Math/Polygon.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Math/Polygon/Calc.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Math/Polygon/Calc.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Math/Polygon/Clip.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Math/Polygon/Clip.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Math/Polygon/Convex.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Math/Polygon/Convex.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Math/Polygon/Surface.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Math/Polygon/Surface.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Math/Polygon/Transform.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Math/Polygon/Transform.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Math/Polygon.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Math/Polygon.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Math/Polygon/Calc.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Math/Polygon/Calc.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Math/Polygon/Clip.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Math/Polygon/Clip.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Math/Polygon/Convex.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Math/Polygon/Convex.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Math/Polygon/Surface.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Math/Polygon/Surface.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Math/Polygon/Transform.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Math/Polygon/Transform.pod
